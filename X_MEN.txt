@@ -2,3 +2,6 @@ Cyclops
 Jean Grey
 Wolverine
 Colossus
+Shadowcat
+Gambit
+Rogue
